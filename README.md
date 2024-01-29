@@ -1,4 +1,4 @@
-<h1>This repository contains simple implementations of fundamental algorithms in Python. Below is a brief overview of each algorithm included:</h1>
+<h2>This repository contains simple implementations of fundamental algorithms in Python written as a part of my university project. Below is a brief overview of each algorithm included:</h2>
     <ol>
         <li>
             <h2>Bubble Sort:</h2>
